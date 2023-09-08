@@ -15,7 +15,8 @@ The database file "movreview.sql" is added.
 - <b>Step 1:</b> Download the project.
 - <b>Step 2:</b> Unzip the project file and open a new terminal in the project directory.
 - <b>Step 3:</b> Run Command, composer install
-- <b>Step 4:</b> Rename the ".env.example" file to ".env" and add the database name.
+- <b>Step 4:</b> Rename the ".env.example" file to ".env".
+- <b>Step 5:</b> Create a new database in PHPMyAdmin and put the name into ".env" file.
 - <b>Step 5:</b> Import the database and run the command, php artisan migrate
 - <b>Step 6:</b> Run command, php artisan key:generate
 - <b>Step 7:</b> Run command, php artisan storage:link
