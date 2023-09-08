@@ -8,7 +8,7 @@
 </p>
 
 ## About This Project
-djdjdj
+A website where users can rate movies from 1 to 10 after they log in to the site, and they can also share a short description of how they felt about the film. Besides, admins can add, update and delete movies from the backend.
 
 ## About Laravel
 
