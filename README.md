@@ -13,6 +13,8 @@ Database file "movreview.sql" added.
 
 ## How to Install
 - <b>Step 1:</b> Download the project.
+- <b>Step 2:</b> Unzip the project file and open a new terminal in the project directory.
+- <b>Step 3:</b> Run Command, composer install
 
 ## About Laravel
 
