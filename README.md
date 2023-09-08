@@ -16,12 +16,13 @@ The database file "movreview.sql" is added.
 - <b>Step 2:</b> Unzip the project file and open a new terminal in the project directory.
 - <b>Step 3:</b> Run Command, composer install
 - <b>Step 4:</b> Rename the ".env.example" file to ".env".
-- <b>Step 5:</b> Create a new database in PHPMyAdmin and put the name into ".env" file.
-- <b>Step 5:</b> Import the database and run the command, php artisan migrate
-- <b>Step 6:</b> Run command, php artisan key:generate
-- <b>Step 7:</b> Run command, php artisan storage:link
-- <b>Step 8:</b> Run command, php artisan ser
-- <b>Step 9:</b> ENJOY!
+- <b>Step 5:</b> Create a new database in PHPMyAdmin and put the name into the ".env" file.
+- <b>Step 6:</b> Import the database and run the command, php artisan migrate
+- <b>Step 7:</b> Run command, php artisan key:generate
+- <b>Step 8:</b> Run command, php artisan storage:link
+- <b>Step 9:</b> Run command, php artisan ser
+- <b>Step 10:</b> ENJOY!
+<b>NOTE:<b> You can access the admin panel by typing "http://127.0.0.1:8000/admin", after that, the user can sign in or sign up as a new admin and manage the movies.
   
 
 ## About Laravel
