@@ -11,6 +11,9 @@
 A website where users can rate movies from 1 to 10 after they log in to the site, and they can also share a short description of how they felt about the film. Besides, admins can add, update and delete movies from the backend.<be>
 Database file "movreview.sql" added.
 
+## How to Install
+- <b>Step 1:</b> Download the project.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
